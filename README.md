@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:6d28d9,100:ec4899&height=240&section=header&text=Basit%20Ghani&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Software%20Engineer%20%7C%20Flutter%20%7C%20Python&descSize=20&descAlignY=60" alt="Basit Ghani, AI Software Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Basit%20Ghani&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Software%20Engineer%20%E2%80%A2%20Flutter%20%E2%80%A2%20Python&descSize=19&descAlignY=58" alt="Basit Ghani, AI Software Engineer" />
 
 <a href="https://github.com/basitghanidev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Hi%2C+I'm+Basit+%F0%9F%91%8B;I+build+apps+that+work+even+offline;Flutter+on+the+front%2C+Python+and+AI+behind+it;I+ship+faster+with+Claude%2C+Gemini%2C+Codex+and+Muse+AI;Currently+open+to+AI+%26+software+engineering+roles" alt="Typing animation" />
@@ -180,6 +180,6 @@ If your team needs someone who can ship mobile features, build with AI, and keep
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6d28d9,100:ec4899&height=130&section=footer&animation=twinkling" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" alt="" />
 
 </div>
