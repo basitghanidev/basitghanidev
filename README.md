@@ -161,9 +161,7 @@ I adapted an existing school portal for a new client, with separate access for a
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=basitghanidev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899&text_color=c9d1d9" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basitghanidev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=basitghanidev&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=basitghanidev&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ec4899&area=true&area_color=7c3aed&hide_border=true" alt="Contribution graph" width="95%" />
+<img src="https://streak-stats.demolab.com/?user=basitghanidev&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa" alt="GitHub streak" />
 
 </div>
 
