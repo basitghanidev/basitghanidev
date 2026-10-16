@@ -28,7 +28,7 @@ I work as a Flutter developer at QuickFile, where I write production code and sh
 Right now I'm moving deeper into AI. I'm learning Python, NumPy and Pandas, and I'm building AI features into real tools, like a Chrome extension that helps write LinkedIn replies. I'm looking for a team where I can keep building mobile products and grow into AI engineering.
 
 **Quick facts**
-- 📍 Islamabad, Pakistan (open to remote)
+- 📍 Islamabad, Pakistan
 - 🎓 BS Computer Science graduate, 2026
 - 💼 Flutter Developer at QuickFile
 - 🧠 Learning Python, NumPy and Pandas for AI work
